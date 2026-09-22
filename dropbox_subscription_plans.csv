@@ -1,0 +1,17 @@
+plan_id,plan_name,segment,fixed_costs,variable_cost_per_user,revenue_per_subscriber,current_subscribers
+301,Basic,Consumer,12500,3,10,4000
+302,Plus,Consumer,40000,6,25,3000
+303,Premium,Consumer,90000,12,50,1500
+304,Family,Consumer,45000,9,30,2000
+305,Starter,Consumer,22000,5,14,3500
+306,Elite,Consumer,130000,20,75,2800
+307,Team,Business,120000,18,60,5000
+308,Business,Business,250000,35,120,6000
+309,Pro,Business,180000,28,90,4000
+310,Enterprise,Business,600000,90,300,3500
+311,Education,Education,15000,2,6,5000
+312,Student,Education,6000,1,5,2500
+313,Nonprofit,Education,9000,3,8,1200
+314,Promo,Consumer,12000,8,8,1500
+315,Legacy,Legacy,9000,9,5,2000
+316,On-Prem,Business,500000,218,220,500
