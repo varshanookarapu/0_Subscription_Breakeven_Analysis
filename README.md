@@ -32,7 +32,7 @@ The data types for every column is accurate .
  
  Breakeven point is  where they do not make any profit or any loss . Basically the breakeven subscribers value will give us an idea about how many users we need to sell the subscription plan to  initially cover the total costs before making any actual revenue/profits.
 
-** Formula : breakeven point = fixed costs/ selling price per item - variable costs per item **
+**Formula : breakeven point = fixed costs/ selling price per item - variable costs per item**
 
 <img width="437" height="514" alt="image" src="https://github.com/user-attachments/assets/dce7385b-fc34-4f1e-8217-9cb0c2550d6e" />
 
