@@ -53,10 +53,14 @@ Overall, based on the above analysis increasing subscriber numbers can improve p
 ## Recommendations
 To ensure that the plans are generating profit the main consideration is  revenue_per_subscriber should always be greater than the variable_cost_per_user
 
-The three plans that I would like  closely look at are Promo , Legacy and On-Prem plans 
+The three plans that I would like  closely look at are Promo , Legacy and On-Prem plans.
+
 **Promo Plan**
-No matter how many subscribers this plan gains, the profit will remain at the same level because the revenue per subscriber and variable cost per user are the same(8). This means that each additional subscriber generates revenue that is completely offset by the variable cost, leaving no contribution toward the plans fixed costs. To make this plan profitable, the subscriptions team would need to either increase the revenue per subscriber or decrease the variable cost per user. The fixed costs should also be reviewed to determine whether there are opportunities to reduce them
+
+No matter how many subscribers this plan gains, the profit will remain at the same level because the revenue per subscriber and variable cost per user are the same(8). This means that each additional subscriber generates revenue that is completely offset by the variable cost, leaving no contribution toward the plans fixed costs. To make this plan profitable, the subscriptions team would need to either increase the revenue per subscriber or decrease the variable cost per user. The fixed costs should also be reviewed to determine whether there are opportunities to reduce them.
+
 **Legacy Plan**
 The profits tend to decrease when more subscribers are added. This is because the variable cost per user (9) is higher than the revenue per subscriber (5).i.e for every subscriber added we are generating a 4 dollar loss. To ensure that this plan generates profits, we need to reduce the variable cost per user.
+
 **On-Prem Plan**
 The fixed costs for this plan are 500,000 and the variable cost per user is 218, while the revenue per subscriber is 220. The contribution is just $2, which is very minimal when compared to the fixed costs. the plan needs 250,000 subscribers just to break even . To ensure that this plan generates profits, we need to make sure that the revenue per subscriber is substantially increased or the variable cost per user is reduced to help offset the fixed costs.
